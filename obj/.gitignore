@@ -1,0 +1,3 @@
+# ignore all in obj directory
+*
+!.gitignore
