@@ -3,7 +3,9 @@ program fpreadosm_testtool;
 {$H+}
 
 uses
-  Classes, SysUtils;
+  Classes, SysUtils,
+  (* project units *)
+  FpReadOsm;
 
 begin
 end.
